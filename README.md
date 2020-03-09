@@ -1,1 +1,2 @@
-# 代码先放这里，让我缓两天，还要上班呢～
+# AO3爬虫
+这个repo是从[@czw90130](https://github.com/czw90130)的[项目](https://github.com/czw90130/AO3_DataAnalyze)Fork过来的，我用于进行AO3内容的分析，目前i确定会发在[这里](https://pegionfish.github.io/2020/03/09/AO3)和[这里](https://www.zhihu.com/question/377119525/answer/1063559018)
